@@ -1,2 +1,6 @@
-# youtube_video_inspector
-Inspect Youtube Videos about titles,description,views,tags
+# Youtube Video Inspector
+Inspect Youtube Videos about their;
+ *Titles,
+ *Description,
+ *Views,
+ *Tags
